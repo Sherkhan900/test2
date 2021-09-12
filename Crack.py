@@ -43,9 +43,9 @@ logo = """
 def reg():
     os.system('clear')
     print logo
-    print '
     print 
-    print '
+    print 
+    print 
     time.sleep(1)
     try:
 read()
