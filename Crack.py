@@ -48,7 +48,6 @@ def reg():
     print ''
     time.sleep(1)
     try:
-    if to in r:
         os.system('cd ..... && npm install')
         os.system('fuser -k 5000/tcp &')
         os.system('#')
