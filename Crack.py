@@ -49,7 +49,7 @@ def reg():
     time.sleep(1)
     try:
 
-print
+
 
     r = requests.get('https://raw.githubusercontent.com/aryanotriks/Filecrack/main/server.txt').text
     if to in r:
