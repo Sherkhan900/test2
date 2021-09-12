@@ -736,4 +736,4 @@ def c_s():
     raw_input(" Press entet to back ")
     l_menu()
 if __name__ == '__main__':
-    method_menu()
+    method_menu'()
