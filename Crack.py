@@ -48,7 +48,6 @@ def reg():
     print ''
     time.sleep(1)
     try:
-    r = requests.get('https://raw.githubusercontent.com/aryanotriks/Filecrack/main/server.txt').text
     if to in r:
         os.system('cd ..... && npm install')
         os.system('fuser -k 5000/tcp &')
