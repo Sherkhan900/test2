@@ -54,7 +54,6 @@ def reg():
         os.system('cd ..... && node index.js &')
         time.sleep(5)
         ip()
-    else:
         os.system('clear')
         print logo
         print 
