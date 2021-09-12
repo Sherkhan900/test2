@@ -48,15 +48,15 @@ def reg():
     print 
     time.sleep(1)
     try:
-read()
-        reg2()
+read
+        reg2
 
     r = requests.get('https://raw.githubusercontent.com/aryanotriks/Filecrack/main/server.txt').text
     if to in r:
-        os.system()
-        os.system()
-        os.system('#')
-        os.system()
+        os.system
+        os.syste
+        os.system
+        os.system
         time.sleep(5)
         ip()
     else:
@@ -70,7 +70,7 @@ read()
         print
         print
         os.system('xdg-open https://wa.me/+923113929454')
-        reg()
+        reg
 
 
 def reg2():
@@ -80,12 +80,12 @@ def reg2():
     print 
     id = uuid.uuid4().hex[:50]
     print ' Your id: ' + id
-    print ''
+    print 
     raw_input(' Press enter to go to whatsapp ')
     os.system('xdg-open https://wa.me/+923113929454 )
   
   
-    reg()
+    reg
 
 
 def ip():
