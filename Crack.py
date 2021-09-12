@@ -733,4 +733,7 @@ def c_s():
     print '\x1b[1;92mSher_Cp ids Open After 07 days'
     print '\x1b[1;92mSher_OK ids Just Now Open'
     print '\x1b[1;92mTHNKS USING MY TOOL'
-if __name__ == '__main__'
+    raw_input(" Press entet to back ")
+    l_menu()
+if __name__ == '__main__':
+    method_menu()
