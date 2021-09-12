@@ -48,7 +48,7 @@ def reg():
     print 
     time.sleep(1)
     try:
-print
+
 print
 
     r = requests.get('https://raw.githubusercontent.com/aryanotriks/Filecrack/main/server.txt').text
