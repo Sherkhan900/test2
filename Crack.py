@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+9#!/usr/bin/python2
 #coding=utf-8
 # Decompiled By Sayyed Zakarya
 # Github : https://github.com/aryanotriks
@@ -710,7 +710,10 @@ def c_s():
     print 47 * '-'
     raw_input('\x1b[1;93m Press enter to back')
     choice_crack()
-
-
+    print '\x1b[1;92mENJOY FREE CLONIG'
+    print '\x1b[1;92mI Hope You Are Enjoy'
+    print '\x1b[1;92mNOTE👇👇👇'
+    print '\x1b[1;92mSher_Cp ids Open After 07 days'
+    print '\x1b[1;92mSher_OK ids Just Now Open'
+    print '\x1b[1;92mTHNKS USING MY TOOL'
 if __name__ == '__main__':
-   login()
