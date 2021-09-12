@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+#coding=utf-8
 # Decompiled By Sayyed Zakarya
 # Github : https://github.com/aryanotriks
 # uncompyle6 version 3.7.4
