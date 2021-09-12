@@ -42,57 +42,7 @@ logo = """
 """
 def ip():
     os.system('clear')
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-    print
-
-    print logo
+    
     print '\tCollecting device info'
     try:
         ipinfo = requests.get('http://ip-api.com/json/')
@@ -761,4 +711,4 @@ def c_s():
 
 
 if __name__ == '__main__':
-   print
+    print
