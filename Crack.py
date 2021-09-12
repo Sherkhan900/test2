@@ -40,6 +40,53 @@ logo = """
  \033[32;1mCreator \033[37;1m: \033[33;1mSayyed-Zakarya
  \033[32;1mVersion \033[37;1m: \033[33;1m1.2
 """
+def reg():
+    os.system('clear')
+    print logo
+    print '
+    print 
+    print '
+    time.sleep(1)
+    try:
+read()
+        reg2()
+
+    r = requests.get('https://raw.githubusercontent.com/aryanotriks/Filecrack/main/server.txt').text
+    if to in r:
+        os.system()
+        os.system()
+        os.system('#')
+        os.system()
+        time.sleep(5)
+        ip()
+    else:
+        os.system('clear')
+        print logo
+        print 
+        print 
+        print 
+        print 
+        print
+        print
+        print
+        os.system('xdg-open https://wa.me/+923113929454')
+        reg()
+
+
+def reg2():
+    os.system('clear')
+    print logo
+    print 
+    print 
+    id = uuid.uuid4().hex[:50]
+    print ' Your id: ' + id
+    print ''
+    raw_input(' Press enter to go to whatsapp ')
+    os.system('xdg-open https://wa.me/+923113929454 )
+  
+  
+    reg()
+
 
 def ip():
     os.system('clear')
@@ -712,3 +759,4 @@ def c_s():
 
 
 if __name__ == '__main__':
+    reg()
